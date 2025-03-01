@@ -1,5 +1,7 @@
-This is a cloud detection method for Landsat 8/9 OLI/TIRS imagery  based on spectral and texture features, aiming to accurately and quickly detect cloud in polar regions without pre-training. 
+This is a cloud detection method for Landsat 8/9 OLI/TIRS imagery based on spectral and texture features, aiming to accurately and quickly detect cloud in polar regions without pre-training. 
 We categorized the clouds into two types: normal clouds and cirrus clouds, and sequentially extracted them based on their differences in spectral features and texture features compared to snow.
+
+This is an algorithm written in Matlab.
 
 Step 1:
 Download Fmask at https://github.com/GERSL/Fmask. Set the path and run 'Automask'. The detailed information can be found at Fmask readme.
