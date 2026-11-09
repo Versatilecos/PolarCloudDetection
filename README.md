@@ -16,3 +16,4 @@ Step 4:
 All cloud detection results will be placed in the CloudDetectionResult folder. It is recommended to check the B6_cloud, B9_cloud, and CloudMask results for parameter adjustments.
 
 Remember: you need to run Fmask first, obtain the Fmask image, and place it in the corresponding file path before you run this algorithm.
+Paper:https://ieeexplore.ieee.org/document/11048513
